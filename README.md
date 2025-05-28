@@ -3,7 +3,7 @@
 
 # 🛠️ Sheet Metal Ventilation Unit - SolidWorks Project (Project 5)
 
-![Model Screenshot](Screenshot%202025-05-27%20213107.png)
+My Project Direct Youtube Link - https://youtu.be/bcbkNpwc1_8
 
 ## 📌 Project Description
 

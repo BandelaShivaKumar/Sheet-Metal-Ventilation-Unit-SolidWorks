@@ -5,14 +5,13 @@
 
 My Project Direct Youtube Link - https://youtu.be/bcbkNpwc1_8
 
-Project Final Image - https://github.com/BandelaShivaKumar/Sheet-Metal-Ventilation-Unit-SolidWorks/blob/main/Images%20step%20by%20step%20process/Screenshot%202025-05-27%20213107.png
-
 ## 📌 Project Description
 
 This is a 3D **Sheet Metal Ventilation Unit** created using **SolidWorks 2025** as part of my mechanical design portfolio. It is designed using the Sheet Metal module, suitable for HVAC applications.
 
 The model showcases fundamental sheet metal techniques such as base flanges, edge flanges, cutouts, and vents. The top panel features a circular vent design typically used for air circulation or cooling components.
 
+Project Final Image - https://github.com/BandelaShivaKumar/Sheet-Metal-Ventilation-Unit-SolidWorks/blob/main/Images%20step%20by%20step%20process/Screenshot%202025-05-27%20213107.png
 ---
 
 ## ✨ Key Features

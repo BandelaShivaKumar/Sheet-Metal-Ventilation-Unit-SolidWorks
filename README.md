@@ -53,7 +53,7 @@ The model showcases fundamental sheet metal techniques such as base flanges, edg
 
 Bandela Shiva Kumar  
 Mechanical Engineering Student  
-GitHub: [YourGitHubHandle]([https://github.com/YourGitHubHandle](http://github.com/BandelaShivaKumar))
+GitHub: [[YourGitHubHandle]([https://github.com/YourGitHubHandle](http://github.com/BandelaShivaKumar))](http://github.com/BandelaShivaKumar)
 
 ---
 
